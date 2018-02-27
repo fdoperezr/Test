@@ -1,0 +1,23 @@
+body {
+	background-color: #e6ffff;
+}
+.container h1 {
+	color: #007bff;
+	text-transform: uppercase;
+
+}
+.container h4 {
+	color: #007bff;
+	text-transform: uppercase;
+}
+#lista{
+	height: 437px;
+	overflow: scroll;
+
+
+}
+#footer {
+
+	font-size: 15px;
+	font-style: italic;
+}
